@@ -47,7 +47,7 @@ I assume you already have NPM installed.
 ## Installation and Deployment
 *The way I deploy*
 ```bash
-git clone https://github.com/athphane/userbot.git
+git clone https://github.com/Shankssama/userbot.git
 cd userbot
 virtualenv venv
 source venv/bin/activate
